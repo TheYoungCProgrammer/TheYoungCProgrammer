@@ -4,6 +4,7 @@
     <h1>Welcome to my first website!</h1>
   </head>
   <body>
+    <link rel="stylesheet" type="text/css" href="styles.css">
     <section>
       <header>
         Helloooo!!
